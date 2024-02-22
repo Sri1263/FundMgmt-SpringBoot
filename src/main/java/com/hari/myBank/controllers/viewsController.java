@@ -1,4 +1,4 @@
-package com.hari.fundmgmt.controllers;
+package com.hari.myBank.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

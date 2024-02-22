@@ -1,13 +1,13 @@
-package com.hari.fundmgmt;
+package com.hari.myBank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FundmgmtApplication {
+public class myBankApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FundmgmtApplication.class, args);
+		SpringApplication.run(myBankApplication.class, args);
 	}
 
 }
